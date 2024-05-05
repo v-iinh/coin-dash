@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: "Raleway", sans-serif;
+  background-color: #111;
+}
+
+input {
+  outline: none;
+  max-width: 100%;
+}

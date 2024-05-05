@@ -1,0 +1,8 @@
+{
+  "short_name": "Coin Dash",
+  "name": "Coin Dash",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
