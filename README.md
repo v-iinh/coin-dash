@@ -24,7 +24,7 @@ Install Node.js & NPM
 Clone the project
 
 ```bash
-  git clone https://github.com/v-iinh/coin_dash.git
+  git clone https://github.com/v-iinh/coin-dash.git
 ```
 
 Terminal Commands
