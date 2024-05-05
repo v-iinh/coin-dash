@@ -1,6 +1,6 @@
 # Coin Dash
 
-Blockchain technology is a growing industry as the world continues to dive into a digital revolution. Coin Dash is a project that aims to be a small step for people with no expereince, to be able to dive into the world of Cryptocurrency and NFTs. Using the CoinGecko API, users are able to view data for a variety of items, and search for them as well. 
+Blockchain technology is a growing industry as the world continues to dive into a digital revolution. Coin Dash is a project that aims to be a small step for people with no expereince, to be able to access information for Cryptocurrency and NFTs. Using the CoinGecko API, users are able to view data for a variety of items, and search for them as well. 
 
 ## Languages & Tools
 
